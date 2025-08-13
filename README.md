@@ -89,7 +89,7 @@
   
 [![Rukmin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tharanga8888&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Rukmin's github stats](https://github-readme-stats.vercel.app/api?username=Tharanga8888&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tharanga8888&theme=tokyonight) |
+| ![Rukmin's github stats](https://github-readme-stats.vercel.app/api?username=Tharanga8888&show_icons=true&theme=tokyonight) | ![Rukmin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tharanga8888&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharanga8888&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tharanga8888&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
